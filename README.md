@@ -34,6 +34,10 @@ Run
 
 	cd github-plugin
 
+	mkdir target
+
+	mkdir target/classes
+
 	mvn hpi:hpi
 	
 to create the plugin .hpi file.
