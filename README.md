@@ -29,6 +29,7 @@ How to install
 --------------
 
 Run 
+
 	git clone https://github.com/jenkinsci/github-plugin.git
 
 	cd github-plugin
